@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "execa": "^0.10.0"
+  }
+}
